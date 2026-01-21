@@ -1,0 +1,2 @@
+-- use peroxide :) 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/18s-peroxide/Peroxide-Spy/refs/heads/main/Peroxide"))()
