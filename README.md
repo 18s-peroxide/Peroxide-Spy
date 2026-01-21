@@ -11,3 +11,4 @@ The following are self explanatory.
 
 • Scroll bar/list icon and file icon with code symbol: The scroll bar will show you the origin of the remote/whatever it is and the view code button will display the code so you can copy, inspect or loop it.
 The rest of the icons dont need much explaining. Enjoy your usage!
+![image](https://github.com/user-attachments/assets/a8b8873a-ff74-42f8-8a10-59247bb41dfe)
