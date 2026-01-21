@@ -5,6 +5,7 @@ Usage Guide:
 
 • Icons
 Loop Icon: Will loop the chosen remote event at 0.15 until it is stopped. If you would like a higher loop rate simply set up your own loop in your executor and set a faster time. We do not recommend the usage of while wait() do.
+
 • Minimize, Close, Maximize
 The following are self explanatory.
 
